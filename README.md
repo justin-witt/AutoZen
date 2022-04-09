@@ -6,7 +6,7 @@ AutoZen is a third-party extension for Zendesk that will refresh an agent's tick
 
 - Download AutoZen from github and place the files into the desired install location.
 
-- In Google Chrome navigate to "chrome://extensions".
+- In Google Chrome/Microsoft Edge navigate to "chrome://extensions".
 
 - Enable developer mode allowing you to import the project from the install location via the "Load unpacked" button.
 
