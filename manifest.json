@@ -1,0 +1,27 @@
+{
+    "name": "AutoZen",
+    "description": "A third-party plugin for Zendesk that will refresh an agent's tickets at user specified times and can be toggled on or off easily.",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "permissions": ["storage", "scripting", "tabs"],
+    "host_permissions": ["https://vcamp.zendesk.com/"],
+    "background": {
+        "service_worker": "latte.js"
+    },
+    "action": {
+        "default_popup": "toggle.html",
+        "deafult_icon": {
+            "16":"/images/16.png",
+            "32":"/images/32.png",
+            "48":"/images/48.png",
+            "128":"/images/128.png"
+        }
+    },
+    "icons": {
+        "16":"/images/16.png",
+        "32":"/images/32.png",
+        "48":"/images/48.png",
+        "128":"/images/128.png"
+    },
+    "options_page": "options.html"
+  }
