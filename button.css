@@ -1,3 +1,20 @@
+html {
+    background-color: dimgray;
+}
+
 button {
     cursor: pointer;
+    margin: 5px;
+    border: none;
+    background-color: slategray;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 3px;
+    transition: all 250ms ease-out;      
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
 }
