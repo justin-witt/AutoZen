@@ -14,7 +14,7 @@ AutoZen is a third-party extension for Zendesk that will refresh an agent's tick
 
 ## Author Information
 
-Contact: https://github.com/justin-wittenmeier/AutoZen
+Contact: https://github.com/justin-witt/AutoZen
 
 ## License
 
